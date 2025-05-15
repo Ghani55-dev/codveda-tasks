@@ -49,3 +49,27 @@ Attempt 2/7: Enter your guess: 30
 
 Attempt 3/7: Enter your guess: 42  
 🎉 Correct! You guessed the number in 3 attempts.
+
+
+✅ Task 3: Word Counter
+This Python program reads a .txt file and counts the number of words it contains. It handles basic file I/O and error checking.
+
+📌 Features
+Reads any .txt file
+
+Splits content into words using Python’s built-in split()
+
+Displays total word count
+
+Handles missing files and exceptions gracefully
+
+📄 How to Run
+python word_counter.py
+
+When prompted:
+Enter the filename (with .txt extension): sample.txt
+✅ The file 'sample.txt' has 17 words.
+
+🧪 Sample File Content (sample.txt)
+This is a sample text file.
+It contains a few words for testing the word counter.
