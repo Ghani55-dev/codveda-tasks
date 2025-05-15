@@ -14,14 +14,12 @@ This Python program performs basic arithmetic operations: addition, subtraction,
 python simple_calculator.py
 
 # codveda-tasks
-Sample output
+#Sample output
 Enter first number: 10  
 Enter second number: 5  
 Enter operation (+ - * /): *  
 Result: 50.0
 
-
-#----------------------------------------------------------------------------------------------------------------------
 ---
 
 ## ✅ Task 2: Number Guessing Game
@@ -39,7 +37,7 @@ This Python program generates a random number between 1 and 100. The user has a 
 ```bash
 python number_guessing_game.py
 
-Sample output:
+#Sample output
 🎯 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
 
